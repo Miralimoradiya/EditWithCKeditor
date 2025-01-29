@@ -2,6 +2,14 @@
 
 This project demonstrates how to integrate [CKEditor](https://ckeditor.com/) into a React.js application.
 
+
+## Live Demo
+
+The website is live on Netlify. Check it out here:
+
+[Live Demo](https://texteditor-miralimoradiya.netlify.app/)
+
+
 ## Getting Started
 
 ### 1. Clone this repository 
